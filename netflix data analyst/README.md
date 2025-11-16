@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/23436807/README.1.md)
+[README.md](https://github.com/user-attachments/files/23436807/README.1.md)
 # 📊 Netflix Data Analysis
 
 This project analyzes Netflix's dataset to uncover trends and patterns in content offerings across different countries, genres, ratings, and years. The goal is to gain insights into Netflix’s content strategy and how it caters to different demographics globally.
@@ -154,4 +154,4 @@ This Netflix data analysis reveals significant trends, such as the dominance of 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farrelmuhammad182/python_Project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrel-muhammad-8a954725b)
-[![mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](farrelmuhammad182@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](farrelmuhammad182@gmail.com)
