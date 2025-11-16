@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23436807/README.1.md)
 # 📊 Netflix Data Analysis
 
 This project analyzes Netflix's dataset to uncover trends and patterns in content offerings across different countries, genres, ratings, and years. The goal is to gain insights into Netflix’s content strategy and how it caters to different demographics globally.
